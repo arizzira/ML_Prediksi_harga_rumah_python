@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/arizzira/ML_Prediksi_harga_rumah_python/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/arizzira/ML_Prediksi_harga_rumah_python/discussions)
-- **Email**: [your-email@example.com](mailto:arizgg6@gmail.com)
+- **Email**: [arizgg6@gmail.com.com](mailto:arizgg6@gmail.com)
 
 ## 🙏 Acknowledgments
 
